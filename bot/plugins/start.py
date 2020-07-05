@@ -20,8 +20,8 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Source Code', url='https://github.com/prgofficial/SS-Bot'),
-                    InlineKeyboardButton('Support Group', url='https://t.me/moviesonlybotupdates')
+                    InlineKeyboardButton('OWNER', url='https://t.me/TheUnusualPsychopath'),
+                    InlineKeyboardButton('Support Group', url='https://t.me/joinchat/Lyze80ifsAGay8OKc-d69A')
                 ],
             ]
         )
