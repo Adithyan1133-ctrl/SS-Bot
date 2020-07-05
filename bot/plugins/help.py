@@ -12,7 +12,7 @@ Hi {}. I'm a Screenshot Generator Bot. You can use me for,
  
 👺 If bot replies __😟 Sorry! I cannot open the file.__, the file might be --currupted-- or --is malformatted--.
 
-__If issues persists contact @prgofficial.__"""
+__If issues persists contact @TheUnusualPsychopath.__"""
 
 
 
